@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseMigrationSettings" lastSelectedDirectory="src\main\resources\db\migration" />
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="attendance_migration" name="Default">
+        <packages>
+          <package value="com.example.attendance_migration" />
+        </packages>
+      </persistence-unit>
+    </persistence-units>
+  </component>
+</project>
